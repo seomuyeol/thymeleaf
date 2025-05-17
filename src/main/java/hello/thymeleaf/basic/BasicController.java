@@ -33,6 +33,7 @@ public class BasicController {
         User userB = new User("userB", 20);
 
         List<User> list = new ArrayList<>();
+
         list.add(userA);
         list.add(userB);
 
